@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring_security_amigoscode_naveen.iml" filepath="$PROJECT_DIR$/.idea/Spring_security_amigoscode_naveen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_learn_naveen/demo.iml" filepath="$PROJECT_DIR$/spring_security_learn_naveen/demo.iml" />
     </modules>
   </component>
 </project>
